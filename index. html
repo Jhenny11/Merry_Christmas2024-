@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merry Christmas 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="shooting-star"></div>
+        <h1 class="wish">Merry Christmas 2024</h1>
+        <img class="tree" src="https://raw.githubusercontent.com/farazc60/Project-Images/refs/heads/main/christmas/christmasTree.webp" alt="Christmas Tree">
+        <img class="snow-hill" src="https://raw.githubusercontent.com/farazc60/Project-Images/refs/heads/main/christmas/snowyHills.webp" alt="Snowy Hills">
+        <canvas id="snow"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
