@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background: linear-gradient(to bottom, #001d3d, #003566);
+    font-family: Arial, sans-serif;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    position: relative;
+}
+
+.shooting-star {
+    /* Add your shooting star animation styles here */
+}
+
+.wish {
+    color: white;
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.tree {
+    width: 200px; /* Adjust size as needed */
+}
+
+.snow-hill {
+    width: 100%; /* Full width */
+    position: absolute;
+    bottom: 0;
+}
